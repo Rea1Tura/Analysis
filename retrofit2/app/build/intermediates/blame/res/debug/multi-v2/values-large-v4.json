@@ -4,7 +4,7 @@
             "outputFile": "D:\\retrofit2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ДНСище\\.gradle\\caches\\transforms-2\\files-2.1\\2026e7608bc8eba97e78369edfc7b7b8\\material-1.1.0-alpha10\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\2026e7608bc8eba97e78369edfc7b7b8\\material-1.1.0-alpha10\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ДНСище\\.gradle\\caches\\transforms-2\\files-2.1\\aa1289509691eec0bc5432bbcec42831\\appcompat-1.1.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\aa1289509691eec0bc5432bbcec42831\\appcompat-1.1.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

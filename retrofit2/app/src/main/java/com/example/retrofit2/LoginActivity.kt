@@ -21,7 +21,7 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         button.setOnClickListener {
-            val mLogin = txtLogin.text.toString()
+            val mLogin = txtLogin.text.toString().toLowerCase()
             val mPassword = txtPassword.text.toString().md5().toUpperCase()
             executeMessage(mLogin, mPassword)
         }

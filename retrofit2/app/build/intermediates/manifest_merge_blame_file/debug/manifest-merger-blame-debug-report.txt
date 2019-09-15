@@ -27,11 +27,11 @@
 15-->D:\retrofit2\app\src\main\AndroidManifest.xml:9:22-73
 16
 17    <application
-17-->D:\retrofit2\app\src\main\AndroidManifest.xml:11:5-27:19
+17-->D:\retrofit2\app\src\main\AndroidManifest.xml:11:5-28:19
 18        android:allowBackup="true"
 18-->D:\retrofit2\app\src\main\AndroidManifest.xml:12:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.1.0] C:\Users\ДНСище\.gradle\caches\transforms-2\files-2.1\eed6135891b32e9c04e8f2327f84f706\core-1.1.0\AndroidManifest.xml:24:18-86
+19-->[androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\eed6135891b32e9c04e8f2327f84f706\core-1.1.0\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
 22        android:icon="@mipmap/ic_launcher"
@@ -47,23 +47,26 @@
 27-->D:\retrofit2\app\src\main\AndroidManifest.xml:17:9-40
 28        android:usesCleartextTraffic="true" >
 28-->D:\retrofit2\app\src\main\AndroidManifest.xml:18:9-44
-29        <activity android:name="com.example.retrofit2.AnalysisActivity" />
-29-->D:\retrofit2\app\src\main\AndroidManifest.xml:19:9-63
-29-->D:\retrofit2\app\src\main\AndroidManifest.xml:19:19-51
-30        <activity android:name="com.example.retrofit2.LoginActivity" >
-30-->D:\retrofit2\app\src\main\AndroidManifest.xml:20:9-26:20
-30-->D:\retrofit2\app\src\main\AndroidManifest.xml:20:19-48
-31            <intent-filter>
-31-->D:\retrofit2\app\src\main\AndroidManifest.xml:21:13-25:29
-32                <action android:name="android.intent.action.MAIN" />
-32-->D:\retrofit2\app\src\main\AndroidManifest.xml:22:17-69
-32-->D:\retrofit2\app\src\main\AndroidManifest.xml:22:25-66
-33
-34                <category android:name="android.intent.category.LAUNCHER" />
-34-->D:\retrofit2\app\src\main\AndroidManifest.xml:24:17-77
-34-->D:\retrofit2\app\src\main\AndroidManifest.xml:24:27-74
-35            </intent-filter>
-36        </activity>
-37    </application>
-38
-39</manifest>
+29        <activity android:name="com.example.retrofit2.ParamsActivity" />
+29-->D:\retrofit2\app\src\main\AndroidManifest.xml:19:9-61
+29-->D:\retrofit2\app\src\main\AndroidManifest.xml:19:19-49
+30        <activity android:name="com.example.retrofit2.AnalysisActivity" />
+30-->D:\retrofit2\app\src\main\AndroidManifest.xml:20:9-54
+30-->D:\retrofit2\app\src\main\AndroidManifest.xml:20:19-51
+31        <activity android:name="com.example.retrofit2.LoginActivity" >
+31-->D:\retrofit2\app\src\main\AndroidManifest.xml:21:9-27:20
+31-->D:\retrofit2\app\src\main\AndroidManifest.xml:21:19-48
+32            <intent-filter>
+32-->D:\retrofit2\app\src\main\AndroidManifest.xml:22:13-26:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->D:\retrofit2\app\src\main\AndroidManifest.xml:23:17-69
+33-->D:\retrofit2\app\src\main\AndroidManifest.xml:23:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->D:\retrofit2\app\src\main\AndroidManifest.xml:25:17-77
+35-->D:\retrofit2\app\src\main\AndroidManifest.xml:25:27-74
+36            </intent-filter>
+37        </activity>
+38    </application>
+39
+40</manifest>

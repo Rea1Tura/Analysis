@@ -27,6 +27,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.example.retrofit2.ParamsActivity" />
         <activity android:name="com.example.retrofit2.AnalysisActivity" />
         <activity android:name="com.example.retrofit2.LoginActivity" >
             <intent-filter>

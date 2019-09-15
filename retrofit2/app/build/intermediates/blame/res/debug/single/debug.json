@@ -20,6 +20,10 @@
         "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_params.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\activity_params.xml"
+    },
+    {
         "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
@@ -34,6 +38,10 @@
     {
         "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_view.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\list_item_view.xml"
     },
     {
         "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
