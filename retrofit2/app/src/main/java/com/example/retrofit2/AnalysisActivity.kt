@@ -16,6 +16,9 @@ import org.xmlpull.v1.XmlPullParserException
 import org.xmlpull.v1.XmlPullParserFactory
 import java.io.*
 import java.lang.Exception
+import java.text.SimpleDateFormat
+import java.util.*
+import kotlin.collections.ArrayList
 
 
 class AnalysisActivity : AppCompatActivity() {
@@ -25,26 +28,19 @@ class AnalysisActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_analysis)
-        val xmlData = intent.getStringExtra("login_activity_data")
-        requestPermissions(this, arrStr, 0)
-        val mFolder = File(Environment.getExternalStorageDirectory(), "XML")
-        mFolder.mkdirs()
-        val mName = File(mFolder, "auth.xml")
-        val write = FileWriter(mName)
-        write.append(xmlData)
-        write.close()
-        val recyclerView: RecyclerView = my_recycler_view
+        val sdf = SimpleDateFormat("yyyy-mm-dd")
+        val currentTime = sdf.format(Date())
+                val recyclerView: RecyclerView = my_recycler_view
         recyclerView.layoutManager = LinearLayoutManager(this)
-        recyclerView.adapter = Adapter(parseXML(mName))
+        recyclerView.adapter = Adapter(parseXML())
         val itemDecor = DividerItemDecoration(recyclerView.context, 1)
         recyclerView.addItemDecoration(itemDecor)
-
     }
 
-    private fun parseXML(path: File): ArrayList<Test> {
+    private fun parseXML(): ArrayList<Test> {
         val parserFactory = XmlPullParserFactory.newInstance()
         val parser = parserFactory.newPullParser()
-        val inputStream = FileInputStream(path.toString())
+        val inputStream = FileInputStream("${Environment.getExternalStorageDirectory()}/XML/auth.xml")
         parser.setFeature(XmlPullParser.FEATURE_PROCESS_NAMESPACES, false)
         parser.setInput(inputStream, null)
         return processParsing(parser)
