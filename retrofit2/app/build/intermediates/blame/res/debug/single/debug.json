@@ -1,27 +1,123 @@
 [
     {
-        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_calendar.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-hdpi\\ic_action_calendar.png"
     },
     {
         "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_params.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\activity_params.xml"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_calendar.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xhdpi\\calendar.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\menu_params_menu.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\menu\\params_menu.xml"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_save.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_calendar.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_calendar.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_calendar.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_calendar.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-v24\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_calendar.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xxhdpi\\calendar.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_analysis.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\activity_analysis.xml"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_save.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-hdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_text.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\view_text.xml"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_calendar.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-mdpi\\calendar.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_save.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_calendar.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-hdpi\\calendar.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_calendar.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_calendar.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_params.xml.flat",
-        "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\activity_params.xml"
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\layout_param_item_view.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\param_item_view.xml"
     },
     {
         "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -36,39 +132,51 @@
         "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_save.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-mdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_save.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_save.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_view.xml.flat",
         "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\list_item_view.xml"
     },
     {
-        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_calendar.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xxxhdpi\\calendar.png"
     },
     {
         "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_analysis.xml.flat",
-        "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\activity_analysis.xml"
-    },
-    {
-        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_sklad.xml.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\layout\\list_sklad.xml"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_calendar.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\drawable-mdpi\\ic_action_calendar.png"
+    },
+    {
+        "merged": "D:\\retrofit2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\retrofit2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     }
 ]

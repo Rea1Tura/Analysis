@@ -4,17 +4,7 @@
             "outputFile": "D:\\retrofit2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\2026e7608bc8eba97e78369edfc7b7b8\\material-1.1.0-alpha10\\res\\values-v28\\values-v28.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,143,231,319,407,494,581,668",
-                        "endColumns": "87,87,87,87,86,86,86,86",
-                        "endOffsets": "138,226,314,402,489,576,663,750"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\aa1289509691eec0bc5432bbcec42831\\appcompat-1.1.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\e309310c6547c04660de15caecd9da03\\appcompat-1.1.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -30,6 +20,16 @@
                         "endLines": "10,11,15,19",
                         "endColumns": "74,86,12,12",
                         "endOffsets": "825,912,1142,1384"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\4ff2fdbd71302044069a6ee4a524aafa\\material-1.1.0-alpha10\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,231,319,407,494,581,668",
+                        "endColumns": "87,87,87,87,86,86,86,86",
+                        "endOffsets": "138,226,314,402,489,576,663,750"
                     }
                 }
             ]

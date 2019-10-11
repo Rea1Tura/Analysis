@@ -12,13 +12,17 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".ParamsActivity"></activity>
-        <activity android:name=".AnalysisActivity" />
-        <activity android:name=".LoginActivity">
+        <activity android:name=".ParamsActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".AnalysisActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

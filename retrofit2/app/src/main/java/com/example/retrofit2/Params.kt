@@ -1,7 +1,9 @@
 package com.example.retrofit2
 
-class Params(var id: String? = null, var name: String? = null, var type: String? = null) {
+import java.io.Serializable
+
+class Params(var id_param: String? = null, var name: String? = null, var value: String? = ""): Serializable {
     override fun toString(): String {
-        return "$id $name $type"
+        return "$id_param,$name,$value"
     }
 }

@@ -10,9 +10,10 @@
         android:id="@+id/button"
         style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="70dp"
         android:layout_marginTop="23dp"
         android:text="Вход"
+        android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="@+id/txtPassword"
         app:layout_constraintStart_toStartOf="@+id/txtPassword"
         app:layout_constraintTop_toBottomOf="@+id/txtPassword" />

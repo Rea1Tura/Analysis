@@ -4,17 +4,7 @@
             "outputFile": "D:\\retrofit2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\aa1289509691eec0bc5432bbcec42831\\appcompat-1.1.0\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\2026e7608bc8eba97e78369edfc7b7b8\\material-1.1.0-alpha10\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\4ff2fdbd71302044069a6ee4a524aafa\\material-1.1.0-alpha10\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -30,6 +20,16 @@
                         "endLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,25",
                         "endColumns": "72,69,71,69,64,66,69,71,68,81,89,75,67,66,77,64,66,10",
                         "endOffsets": "332,402,474,544,609,676,746,818,887,969,1059,1135,1203,1270,1348,1413,1480,1652"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\e309310c6547c04660de15caecd9da03\\appcompat-1.1.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
                     }
                 }
             ]
