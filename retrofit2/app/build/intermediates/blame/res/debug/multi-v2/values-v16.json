@@ -4,17 +4,7 @@
             "outputFile": "D:\\retrofit2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\213bc7ef52d2953605d4a6c643d51b07\\core-1.1.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\e309310c6547c04660de15caecd9da03\\appcompat-1.1.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\1e3eabf1e063719740104d85a4524153\\appcompat-1.1.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\RealTura\\.gradle\\caches\\transforms-2\\files-2.1\\52a1195b02123540ebf635833aa2232d\\core-1.1.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

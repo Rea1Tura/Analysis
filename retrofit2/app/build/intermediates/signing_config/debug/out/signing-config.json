@@ -1,1 +1,1 @@
-{"name":"debug","storeType":"jks","storeFile":"C:\\Users\\RealTura\\.android\\debug.keystore","storePassword":"android","keyAlias":"AndroidDebugKey","keyPassword":"android","v1SigningEnabled":true,"v2SigningEnabled":true}
+{"mName":"debug","mStoreFile":"C:\\Users\\RealTura\\.android\\debug.keystore","mStorePassword":"android","mKeyAlias":"AndroidDebugKey","mKeyPassword":"android","mStoreType":"jks","mV1SigningEnabled":true,"mV2SigningEnabled":true}

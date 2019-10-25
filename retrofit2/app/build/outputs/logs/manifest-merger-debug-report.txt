@@ -4,39 +4,46 @@ ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml:2:1-34:12
-MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\4ff2fdbd71302044069a6ee4a524aafa\material-1.1.0-alpha10\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fa59fd493bc0a6c849faad11c7dee7ec\viewpager2-1.0.0-beta03\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\eb89d330459d05b448029d0bfd4c8ae2\recyclerview-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e309310c6547c04660de15caecd9da03\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\7bd31a95f77aaa4a12f1c5723ef22904\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\73e346e484f22121b508d33dfec21469\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\b1753c14ce186b00381b7e057d49b98b\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\bb6893127910fa06fb50cd60d6287afd\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.0.1] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\65b10adb13544807212556938cf16aba\transition-1.0.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\ef26afea00d2ea0ab02237044b831325\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fa8f0bbf7b4fa19b247c1571ca4a551f\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e5168ec4bbbca4678c182a57e811f6f8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\719bc98552336e222a74fc76c8e3a808\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\9da5f4b27e7c7ed0b217f194770549a5\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\603562ed78f76a3d70685106987f6b5d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e974cb15cc3b0bfa3e3685a6407ddedd\activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\7f0e4a6c6f8e401aa7828661ca76ff46\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e3467f453d0e6c82e5a931be6716942a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\213bc7ef52d2953605d4a6c643d51b07\core-1.1.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\86e06710361749bffeef643fb3759441\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\dece6a4cc07304a71b70280c374aecec\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\a550a8e1f992183f43cddc3af184cbd2\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d9491cb84a35e14f62e8a91e92027fb9\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d583d01488ccd96976837ecf92bcac74\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\24b1f61c82266007d72b45c74158468a\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\c9910d10ca9320b88bc698549a8c0e28\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d8bdb823100e8e127051975b5e6033b4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\4833c06d63863648436f001cc7b5bf6b\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\bef51f970558a62ee5a2cc59c9aa9264\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\9b258213d91b6cc3007c03ef876b5b60\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\1e3eabf1e063719740104d85a4524153\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\5969f8df3e76a867c007ecda58fe362c\jetified-core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fc15bb1ede02311612475889871ab15f\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\55c5c4abc364c05c44457f32a7e4f3f2\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\399315e35433fc5bd6b7de911e10491e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\431ee5e6a585bc79144015785ff10687\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\a7ac4981ac71dcbb38b123834935e0f8\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\0af6e77f808771f4c29c3079da6f6cc3\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d9d9672fbcafdd7db022f2fb26e6653d\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\efed4428dead5cdeb59cb57687c1b4f9\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\823f650b87c5a4adaf8a7e6900348ca5\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\c45ff0bcad9c5b7c0706968a43d74e76\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e03492a029ab1e49c929354153829acd\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\259811bdb1b34b956600fc8d7f4b422d\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\4def5804d020d6316f70ffa4c8add344\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\acae56227c7ba7cc660133b58d3ae900\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\b76b32130736176a94e0376015c9565c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\a58e50f097507ad8de4b760b3f1bf5b2\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\8e42b3f6fbd9651cf480fdb733e61a65\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\5fdbf42908c7f811cb87a03a59f25bed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\52a1195b02123540ebf635833aa2232d\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\614564ec2f2ba69ba3aff898e624c5f8\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\095aad4060f21fa9f3f142212e40da80\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\90e3d4f96608ddcad82ee77f6a78d72f\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\5f8c0ca0fbf70e53e63f32bcc61a7cf4\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fbc457e6fe6a06f50dea1edffdf9bc7d\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\0c0b012c9e8472518387cc4c1a65f1ec\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\dd580c4eb858e818f779b6eb75c8b546\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\119bb189d52bbed10f397bdc3458e56c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\6371b1095a94ba1285a72adb76335bab\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\653313721a46269b01da9f71cad72fb0\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\1dc697a322d33d2d37a4e9132450643b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\b3cdf07df75bb77da1d4c0b98e10d670\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:3:5-36
+		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml
 		INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -71,16 +78,16 @@ ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:9:5-76
 		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:9:22-73
 application
 ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:11:5-32:19
-MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\4ff2fdbd71302044069a6ee4a524aafa\material-1.1.0-alpha10\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\4ff2fdbd71302044069a6ee4a524aafa\material-1.1.0-alpha10\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\73e346e484f22121b508d33dfec21469\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\73e346e484f22121b508d33dfec21469\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\213bc7ef52d2953605d4a6c643d51b07\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\213bc7ef52d2953605d4a6c643d51b07\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\dece6a4cc07304a71b70280c374aecec\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\dece6a4cc07304a71b70280c374aecec\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\bef51f970558a62ee5a2cc59c9aa9264\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\bef51f970558a62ee5a2cc59c9aa9264\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fc15bb1ede02311612475889871ab15f\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fc15bb1ede02311612475889871ab15f\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\52a1195b02123540ebf635833aa2232d\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\52a1195b02123540ebf635833aa2232d\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\0c0b012c9e8472518387cc4c1a65f1ec\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\0c0b012c9e8472518387cc4c1a65f1ec\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\213bc7ef52d2953605d4a6c643d51b07\core-1.1.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\52a1195b02123540ebf635833aa2232d\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
@@ -93,26 +100,26 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Re
 		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:16:9-40
 	android:usesCleartextTraffic
 		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:17:9-44
-activity#com.example.retrofit2.ParamsActivity
+activity#ru.kdvm.labcontrol.ParamsActivity
 ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:18:9-19:61
 	android:screenOrientation
 		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:19:13-49
 	android:name
-		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:18:19-49
-activity#com.example.retrofit2.AnalysisActivity
+		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:18:19-67
+activity#ru.kdvm.labcontrol.AnalysisActivity
 ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:20:9-21:51
 	android:screenOrientation
 		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:21:13-49
 	android:name
-		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:20:19-51
-activity#com.example.retrofit2.LoginActivity
+		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:20:19-69
+activity#ru.kdvm.labcontrol.LoginActivity
 ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:22:9-31:20
 	android:screenOrientation
 		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:25:13-49
 	android:theme
 		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:24:13-44
 	android:name
-		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:23:13-42
+		ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:23:13-60
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\retrofit2\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
@@ -127,62 +134,76 @@ uses-sdk
 INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml
 INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\4ff2fdbd71302044069a6ee4a524aafa\material-1.1.0-alpha10\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\4ff2fdbd71302044069a6ee4a524aafa\material-1.1.0-alpha10\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fa59fd493bc0a6c849faad11c7dee7ec\viewpager2-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fa59fd493bc0a6c849faad11c7dee7ec\viewpager2-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\eb89d330459d05b448029d0bfd4c8ae2\recyclerview-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\eb89d330459d05b448029d0bfd4c8ae2\recyclerview-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e309310c6547c04660de15caecd9da03\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e309310c6547c04660de15caecd9da03\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\7bd31a95f77aaa4a12f1c5723ef22904\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\7bd31a95f77aaa4a12f1c5723ef22904\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\73e346e484f22121b508d33dfec21469\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\73e346e484f22121b508d33dfec21469\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\b1753c14ce186b00381b7e057d49b98b\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\b1753c14ce186b00381b7e057d49b98b\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\bb6893127910fa06fb50cd60d6287afd\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\bb6893127910fa06fb50cd60d6287afd\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.0.1] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\65b10adb13544807212556938cf16aba\transition-1.0.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.1] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\65b10adb13544807212556938cf16aba\transition-1.0.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\ef26afea00d2ea0ab02237044b831325\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\ef26afea00d2ea0ab02237044b831325\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fa8f0bbf7b4fa19b247c1571ca4a551f\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fa8f0bbf7b4fa19b247c1571ca4a551f\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e5168ec4bbbca4678c182a57e811f6f8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e5168ec4bbbca4678c182a57e811f6f8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\719bc98552336e222a74fc76c8e3a808\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\719bc98552336e222a74fc76c8e3a808\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\9da5f4b27e7c7ed0b217f194770549a5\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\9da5f4b27e7c7ed0b217f194770549a5\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\603562ed78f76a3d70685106987f6b5d\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\603562ed78f76a3d70685106987f6b5d\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e974cb15cc3b0bfa3e3685a6407ddedd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e974cb15cc3b0bfa3e3685a6407ddedd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\7f0e4a6c6f8e401aa7828661ca76ff46\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\7f0e4a6c6f8e401aa7828661ca76ff46\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e3467f453d0e6c82e5a931be6716942a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e3467f453d0e6c82e5a931be6716942a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\213bc7ef52d2953605d4a6c643d51b07\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\213bc7ef52d2953605d4a6c643d51b07\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\86e06710361749bffeef643fb3759441\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\86e06710361749bffeef643fb3759441\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\dece6a4cc07304a71b70280c374aecec\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\dece6a4cc07304a71b70280c374aecec\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\a550a8e1f992183f43cddc3af184cbd2\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\a550a8e1f992183f43cddc3af184cbd2\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d9491cb84a35e14f62e8a91e92027fb9\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d9491cb84a35e14f62e8a91e92027fb9\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d583d01488ccd96976837ecf92bcac74\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d583d01488ccd96976837ecf92bcac74\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\24b1f61c82266007d72b45c74158468a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\24b1f61c82266007d72b45c74158468a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\c9910d10ca9320b88bc698549a8c0e28\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\c9910d10ca9320b88bc698549a8c0e28\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d8bdb823100e8e127051975b5e6033b4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d8bdb823100e8e127051975b5e6033b4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\4833c06d63863648436f001cc7b5bf6b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\4833c06d63863648436f001cc7b5bf6b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\bef51f970558a62ee5a2cc59c9aa9264\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\bef51f970558a62ee5a2cc59c9aa9264\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\9b258213d91b6cc3007c03ef876b5b60\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\9b258213d91b6cc3007c03ef876b5b60\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\1e3eabf1e063719740104d85a4524153\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\1e3eabf1e063719740104d85a4524153\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\5969f8df3e76a867c007ecda58fe362c\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\5969f8df3e76a867c007ecda58fe362c\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fc15bb1ede02311612475889871ab15f\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fc15bb1ede02311612475889871ab15f\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\55c5c4abc364c05c44457f32a7e4f3f2\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\55c5c4abc364c05c44457f32a7e4f3f2\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\399315e35433fc5bd6b7de911e10491e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\399315e35433fc5bd6b7de911e10491e\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\431ee5e6a585bc79144015785ff10687\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\431ee5e6a585bc79144015785ff10687\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\a7ac4981ac71dcbb38b123834935e0f8\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\a7ac4981ac71dcbb38b123834935e0f8\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\0af6e77f808771f4c29c3079da6f6cc3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\0af6e77f808771f4c29c3079da6f6cc3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d9d9672fbcafdd7db022f2fb26e6653d\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\d9d9672fbcafdd7db022f2fb26e6653d\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\efed4428dead5cdeb59cb57687c1b4f9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\efed4428dead5cdeb59cb57687c1b4f9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\823f650b87c5a4adaf8a7e6900348ca5\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\823f650b87c5a4adaf8a7e6900348ca5\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\c45ff0bcad9c5b7c0706968a43d74e76\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\c45ff0bcad9c5b7c0706968a43d74e76\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e03492a029ab1e49c929354153829acd\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\e03492a029ab1e49c929354153829acd\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\259811bdb1b34b956600fc8d7f4b422d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\259811bdb1b34b956600fc8d7f4b422d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\4def5804d020d6316f70ffa4c8add344\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\4def5804d020d6316f70ffa4c8add344\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\acae56227c7ba7cc660133b58d3ae900\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\acae56227c7ba7cc660133b58d3ae900\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\b76b32130736176a94e0376015c9565c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\b76b32130736176a94e0376015c9565c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\a58e50f097507ad8de4b760b3f1bf5b2\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\a58e50f097507ad8de4b760b3f1bf5b2\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\8e42b3f6fbd9651cf480fdb733e61a65\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\8e42b3f6fbd9651cf480fdb733e61a65\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\5fdbf42908c7f811cb87a03a59f25bed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\5fdbf42908c7f811cb87a03a59f25bed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\52a1195b02123540ebf635833aa2232d\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\52a1195b02123540ebf635833aa2232d\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\614564ec2f2ba69ba3aff898e624c5f8\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\614564ec2f2ba69ba3aff898e624c5f8\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\095aad4060f21fa9f3f142212e40da80\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\095aad4060f21fa9f3f142212e40da80\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\90e3d4f96608ddcad82ee77f6a78d72f\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\90e3d4f96608ddcad82ee77f6a78d72f\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\5f8c0ca0fbf70e53e63f32bcc61a7cf4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\5f8c0ca0fbf70e53e63f32bcc61a7cf4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fbc457e6fe6a06f50dea1edffdf9bc7d\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\fbc457e6fe6a06f50dea1edffdf9bc7d\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\0c0b012c9e8472518387cc4c1a65f1ec\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\0c0b012c9e8472518387cc4c1a65f1ec\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\dd580c4eb858e818f779b6eb75c8b546\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\dd580c4eb858e818f779b6eb75c8b546\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\119bb189d52bbed10f397bdc3458e56c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\119bb189d52bbed10f397bdc3458e56c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\6371b1095a94ba1285a72adb76335bab\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\6371b1095a94ba1285a72adb76335bab\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\653313721a46269b01da9f71cad72fb0\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\653313721a46269b01da9f71cad72fb0\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\1dc697a322d33d2d37a4e9132450643b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\1dc697a322d33d2d37a4e9132450643b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\b3cdf07df75bb77da1d4c0b98e10d670\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\b3cdf07df75bb77da1d4c0b98e10d670\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml
 INJECTED from D:\retrofit2\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

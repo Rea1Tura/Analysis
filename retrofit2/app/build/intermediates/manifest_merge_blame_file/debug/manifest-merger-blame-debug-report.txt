@@ -31,7 +31,7 @@
 18        android:allowBackup="true"
 18-->D:\retrofit2\app\src\main\AndroidManifest.xml:12:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\213bc7ef52d2953605d4a6c643d51b07\core-1.1.0\AndroidManifest.xml:24:18-86
+19-->[androidx.core:core:1.1.0] C:\Users\RealTura\.gradle\caches\transforms-2\files-2.1\52a1195b02123540ebf635833aa2232d\core-1.1.0\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
 22        android:icon="@mipmap/ic_launcher"
@@ -40,42 +40,41 @@
 23-->D:\retrofit2\app\src\main\AndroidManifest.xml:14:9-41
 24        android:supportsRtl="true"
 24-->D:\retrofit2\app\src\main\AndroidManifest.xml:15:9-35
-25        android:testOnly="true"
-26        android:theme="@style/AppTheme"
-26-->D:\retrofit2\app\src\main\AndroidManifest.xml:16:9-40
-27        android:usesCleartextTraffic="true" >
-27-->D:\retrofit2\app\src\main\AndroidManifest.xml:17:9-44
-28        <activity
-28-->D:\retrofit2\app\src\main\AndroidManifest.xml:18:9-19:61
-29            android:name="com.example.retrofit2.ParamsActivity"
-29-->D:\retrofit2\app\src\main\AndroidManifest.xml:18:19-49
-30            android:screenOrientation="portrait" />
-30-->D:\retrofit2\app\src\main\AndroidManifest.xml:19:13-49
-31        <activity
-31-->D:\retrofit2\app\src\main\AndroidManifest.xml:20:9-21:51
-32            android:name="com.example.retrofit2.AnalysisActivity"
-32-->D:\retrofit2\app\src\main\AndroidManifest.xml:20:19-51
-33            android:screenOrientation="portrait" />
-33-->D:\retrofit2\app\src\main\AndroidManifest.xml:21:13-49
-34        <activity
-34-->D:\retrofit2\app\src\main\AndroidManifest.xml:22:9-31:20
-35            android:name="com.example.retrofit2.LoginActivity"
-35-->D:\retrofit2\app\src\main\AndroidManifest.xml:23:13-42
-36            android:screenOrientation="portrait"
-36-->D:\retrofit2\app\src\main\AndroidManifest.xml:25:13-49
-37            android:theme="@style/AppTheme" >
-37-->D:\retrofit2\app\src\main\AndroidManifest.xml:24:13-44
-38            <intent-filter>
-38-->D:\retrofit2\app\src\main\AndroidManifest.xml:26:13-30:29
-39                <action android:name="android.intent.action.MAIN" />
-39-->D:\retrofit2\app\src\main\AndroidManifest.xml:27:17-69
-39-->D:\retrofit2\app\src\main\AndroidManifest.xml:27:25-66
-40
-41                <category android:name="android.intent.category.LAUNCHER" />
-41-->D:\retrofit2\app\src\main\AndroidManifest.xml:29:17-77
-41-->D:\retrofit2\app\src\main\AndroidManifest.xml:29:27-74
-42            </intent-filter>
-43        </activity>
-44    </application>
-45
-46</manifest>
+25        android:theme="@style/AppTheme"
+25-->D:\retrofit2\app\src\main\AndroidManifest.xml:16:9-40
+26        android:usesCleartextTraffic="true" >
+26-->D:\retrofit2\app\src\main\AndroidManifest.xml:17:9-44
+27        <activity
+27-->D:\retrofit2\app\src\main\AndroidManifest.xml:18:9-19:61
+28            android:name="ru.kdvm.labcontrol.ParamsActivity"
+28-->D:\retrofit2\app\src\main\AndroidManifest.xml:18:19-67
+29            android:screenOrientation="portrait" />
+29-->D:\retrofit2\app\src\main\AndroidManifest.xml:19:13-49
+30        <activity
+30-->D:\retrofit2\app\src\main\AndroidManifest.xml:20:9-21:51
+31            android:name="ru.kdvm.labcontrol.AnalysisActivity"
+31-->D:\retrofit2\app\src\main\AndroidManifest.xml:20:19-69
+32            android:screenOrientation="portrait" />
+32-->D:\retrofit2\app\src\main\AndroidManifest.xml:21:13-49
+33        <activity
+33-->D:\retrofit2\app\src\main\AndroidManifest.xml:22:9-31:20
+34            android:name="ru.kdvm.labcontrol.LoginActivity"
+34-->D:\retrofit2\app\src\main\AndroidManifest.xml:23:13-60
+35            android:screenOrientation="portrait"
+35-->D:\retrofit2\app\src\main\AndroidManifest.xml:25:13-49
+36            android:theme="@style/AppTheme" >
+36-->D:\retrofit2\app\src\main\AndroidManifest.xml:24:13-44
+37            <intent-filter>
+37-->D:\retrofit2\app\src\main\AndroidManifest.xml:26:13-30:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->D:\retrofit2\app\src\main\AndroidManifest.xml:27:17-69
+38-->D:\retrofit2\app\src\main\AndroidManifest.xml:27:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->D:\retrofit2\app\src\main\AndroidManifest.xml:29:17-77
+40-->D:\retrofit2\app\src\main\AndroidManifest.xml:29:27-74
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>
